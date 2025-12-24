@@ -51,7 +51,7 @@ Tabulation:1
 Cross connection: CIRCUIT DIAGRAM:
 <img width="856" height="700" alt="Screenshot 2025-11-25 115528" src="https://github.com/user-attachments/assets/f58d8439-ea1f-4cac-9c10-d61882870b4e" />
 <img width="844" height="616" alt="Screenshot 2025-11-25 115545" src="https://github.com/user-attachments/assets/53ddaaf7-cbcd-454b-bfbe-cc5f556978e0" />
-![asin beee watsapp image](https://github.com/user-attachments/assets/f99b91e3-ceed-499e-9286-a4c2201edc9c)
+![WhatsApp Image 2025-12-24 at 9 43 15 PM](https://github.com/user-attachments/assets/8a6f93df-2b46-4402-b1ac-a61a49494921)
 
 
 
