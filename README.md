@@ -42,11 +42,11 @@ switch2.
 Direct connection: CIRCUIT DIAGRAM: 
 <img width="820" height="599" alt="Screenshot 2025-11-25 114645" src="https://github.com/user-attachments/assets/e51f6a0d-5830-41ef-a611-e9133313b446" />
 <img width="825" height="600" alt="Screenshot 2025-11-25 114708" src="https://github.com/user-attachments/assets/849561e7-4437-41cd-b6d8-8c335a77ddb9" />
-![WhatsApp Image 2025-12-24 at 9 36 14 PM](https://github.com/user-attachments/assets/ddcd5e01-d481-41f9-aa3d-00050d878db9)
+![WhatsApp Image 2025-12-24 at 9 36 12 PM](https://github.com/user-attachments/assets/4d19302e-a325-485d-aaa8-51c0d5426342)
 
 
 Tabulation:1
-![WhatsApp Image 2025-12-24 at 9 36 12 PM](https://github.com/user-attachments/assets/4d19302e-a325-485d-aaa8-51c0d5426342)
+![WhatsApp Image 2025-12-24 at 9 36 14 PM](https://github.com/user-attachments/assets/ddcd5e01-d481-41f9-aa3d-00050d878db9)
 
 Cross connection: CIRCUIT DIAGRAM:
 <img width="856" height="700" alt="Screenshot 2025-11-25 115528" src="https://github.com/user-attachments/assets/f58d8439-ea1f-4cac-9c10-d61882870b4e" />
