@@ -52,6 +52,7 @@ Cross connection: CIRCUIT DIAGRAM:
 <img width="856" height="700" alt="Screenshot 2025-11-25 115528" src="https://github.com/user-attachments/assets/f58d8439-ea1f-4cac-9c10-d61882870b4e" />
 <img width="844" height="616" alt="Screenshot 2025-11-25 115545" src="https://github.com/user-attachments/assets/53ddaaf7-cbcd-454b-bfbe-cc5f556978e0" />
 
+![WhatsApp asin Image 2025-12-24 at 9 43 15 PM](https://github.com/user-attachments/assets/541beccb-03f6-4316-876a-13a4f3424ec8)
 
 
 Tabulation:2
